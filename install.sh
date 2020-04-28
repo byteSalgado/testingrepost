@@ -8,3 +8,5 @@ apt-get install python*
 chmod +x complementos.py
 echo "instalacion completada"
 python complementos.py
+clear
+bash mitm.sh
